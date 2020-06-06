@@ -42,10 +42,13 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang. "[A Graph to Graphs Framework for Retrosynthesis Prediction](https://arxiv.org/pdf/2003.12725.pdf)", ICML'20.
+* <span style="color:red">New!!</span> Meng Qu, Tianyu Gao, Louis-Pascal AC Xhonneux, Jian Tang. "[Few-shot Relation Extraction via Bayesian Meta-learning on Task Graphs](www.jian-tang.com)", ICML'20.
+* <span style="color:red">New!!</span> Louis-Pascal AC Xhonneux, Meng Qu, Jian Tang. "[Continuous Graph Neural Networks](https://arxiv.org/pdf/1912.00967.pdf)", ICML'20.
+* <span style="color:red">New!!</span> Sai Krishna Gottipati, Boris Sattarov, Sufeng Niu, Haoran Wei, Yashaswi Pathak, Shengchao Liu, Simon Blackburn, Karam Thomas, Connor Coley, Jian Tang, Sarath Chandar, Yoshua Bengio. "[Learning to Navigate in Synthetically Accessible Chemical Space Using Reinforcement Learning](https://arxiv.org/pdf/2004.12485.pdf)", ICML'20.
 * <span style="color:red">New!!</span> Chence Shi*, Minkai Xu*, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang. "[GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/attachment?id=S1esMkHYPr&name=original_pdf)". To appear at the International Conference on Learning Representations 2020 (ICLR'20),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
 * <span style="color:red">New!!</span> Fan-Yun Sun, Jordan Hoffmann, Jian Tang."[InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
 ](https://arxiv.org/abs/1908.01000)." To appear at the International Conference on Learning Representations 2020 (ICLR'20, Spotlight),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
-* <span style="color:red">New!!</span> Louis-Pascal AC Xhonneux, Meng Qu, Jian Tang. "[Continuous Graph Neural Networks](https://arxiv.org/pdf/1912.00967.pdf)", arXiv:1912.00967. 
 * <span style="color:red">New!!</span> Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. "[KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/pdf/1911.06136.pdf)",  arXiv:1911.06136.
 * <span style="color:red">New!!</span> Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning
 ](https://arxiv.org/abs/1909.11715)", arXiv:1909.11715.
