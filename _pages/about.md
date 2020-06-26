@@ -18,6 +18,7 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> Received a Tencent AI Lab Rhino-Bird Gift Fund. Thanks Tencent!
 * <span style="color:red">New!!</span> 4 papers accepted to ICML'20! Congratulations to all my students and collaborators!
 * <span style="color:red">New!!</span> Received a Amazon Faculty Research Award. Thanks Amazon!
 * <span style="color:red">New!!</span> Received a Microsoft-Mila collaboration grant on "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning". Thanks Microsoft!
