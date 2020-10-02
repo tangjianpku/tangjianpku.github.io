@@ -44,6 +44,9 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Shengding Hu, Zheng Xiong, Meng Qu, Xingdi Yuan, Marc-Alexandre Côté, Zhiyuan Liu, Jian Tang. "[Graph Policy Network for Transferable Active Learning on Graphs](https://arxiv.org/abs/2006.13463)". NeurIPS'2020
+* <span style="color:red">New!!</span>Ashutosh Adhikari, Xingdi Yuan, Marc-Alexandre Côté, Mikuláš Zelinka, Marc-Antoine Rondeau, Romain Laroche, Pascal Poupart, Jian Tang, Adam Trischler, William L Hamilton. "[Learning dynamic knowledge graphs to generalize on text-based games](https://arxiv.org/abs/2002.09127)", NeurIPS'2020
+* <span style="color:red">New!!</span>Wangchunshu Zhou, Jinyi Hu, Hanlin Zhang, Xiaodan Liang, Maosong Sun, Chenyan Xiong, Jian Tang. "[Towards Interpretable Natural Language Understanding with Explanations as Latent Variables]()", NeurIPS'2020
 * <span style="color:red">New!!</span> Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang. "[A Graph to Graphs Framework for Retrosynthesis Prediction](https://arxiv.org/pdf/2003.12725.pdf)", ICML'20.
 * <span style="color:red">New!!</span> Meng Qu, Tianyu Gao, Louis-Pascal AC Xhonneux, Jian Tang. "[Few-shot Relation Extraction via Bayesian Meta-learning on Task Graphs](www.jian-tang.com)", ICML'20.
 * <span style="color:red">New!!</span> Louis-Pascal AC Xhonneux, Meng Qu, Jian Tang. "[Continuous Graph Neural Networks](https://arxiv.org/pdf/1912.00967.pdf)", ICML'20.
