@@ -18,8 +18,9 @@ Interns
 ---
 * Junkun Chen (Undergradaute, Tsinghua University, 2020.3-)
 * [Zuobai Zhang](https://oxer11.github.io/) (Undergradaute, Fudan University, summer 2020)
-* [Minghao Xu](https://chrisallenming.github.io/) (Undergradaute, Shanghai Jiao Tong University, summer 2020)
+* [Minghao Xu](https://chrisallenming.github.io/) (Master, Shanghai Jiao Tong University, summer 2020)
 * Huiyu Cai (Undergradaute, Peking University, summer 2020)
+* Shuangrui Ding (Undergradaute, University of Michigan, summer 2020)
 
 Alumni
 ---

@@ -11,13 +11,15 @@ permalink: /publications/
 * Meng Qu, Junkun Chen, Louis-Pascal AC Xhonneux, Yoshua Bengio, Jian Tang. "[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://arxiv.org/pdf/2010.04029.pdf).", arXiv:2010.04029.
 * Andreea Deac, Pierre-Luc Bacon, Jian Tang. "[Graph neural induction of value iteration](https://arxiv.org/pdf/2009.12604.pdf).", arXiv:2009.12604.
 * Simeon Spasov, Alessandro Di Stefano, Pietro Liò, Jian Tang. "[GRADE: Graph Dynamic Embedding](https://arxiv.org/pdf/2007.08060.pdf).", arXiv:2007.08060.
-* Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. "[KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/pdf/1911.06136.pdf)",  arXiv:1911.06136.
+* Hannah Alsdurf, Yoshua Bengio, Tristan Deleu, Prateek Gupta, Daphne Ippolito, Richard Janda, Max Jarvie, Tyler Kolody, Sekoul Krastev, Tegan Maharaj, Robert Obryk, Dan Pilat, Valerie Pisano, Benjamin Prud'homme, Meng Qu, Nasim Rahaman, Irina Rish, Jean-Franois Rousseau, Abhinav Sharma, Brooke Struck, Jian Tang, Martin Weiss, Yun William Yu. "[COVI White Paper](https://arxiv.org/abs/2005.08502).", arXiv:2005.08502.
 * Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://arxiv.org/abs/1909.11715)", arXiv:1909.11715.
 * Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.
 
 # 2020
 
-* Shengding Hu, Zheng Xiong, Meng Qu, Xingdi Yuan, Marc-Alexandre Côté, Zhiyuan Liu, Jian Tang. "[Graph Policy Network for Transferable Active Learning on Graphs](https://arxiv.org/abs/2006.13463)". NeurIPS'2020
+* Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. "[KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/pdf/1911.06136.pdf)", TACL 2020.
+* Yadi Zhou, Fei Wang, Jian Tang, Ruth Nussinov, Feixiong Cheng. "[Artificial intelligence in COVID-19 drug repurposing](https://www.sciencedirect.com/science/article/pii/S2589750020301928).", The Lancet Digital Health 2020.
+* Shengding Hu, Zheng Xiong, Meng Qu, Xingdi Yuan, Marc-Alexandre Côté, Zhiyuan Liu, Jian Tang. "[Graph Policy Network for Transferable Active Learning on Graphs](https://arxiv.org/abs/2006.13463)", NeurIPS'2020
 * Ashutosh Adhikari, Xingdi Yuan, Marc-Alexandre Côté, Mikuláš Zelinka, Marc-Antoine Rondeau, Romain Laroche, Pascal Poupart, Jian Tang, Adam Trischler, William L Hamilton. "[Learning dynamic knowledge graphs to generalize on text-based games](https://arxiv.org/abs/2002.09127)", NeurIPS'2020
 * Wangchunshu Zhou, Jinyi Hu, Hanlin Zhang, Xiaodan Liang, Maosong Sun, Chenyan Xiong, Jian Tang. "[Towards Interpretable Natural Language Understanding with Explanations as Latent Variables]()", NeurIPS'2020
 * Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang. "[A Graph to Graphs Framework for Retrosynthesis Prediction](https://arxiv.org/pdf/2003.12725.pdf)", ICML'20.
