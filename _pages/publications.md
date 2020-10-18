@@ -8,6 +8,9 @@ permalink: /publications/
 
 # Preprints
 
+* Meng Qu, Junkun Chen, Louis-Pascal AC Xhonneux, Yoshua Bengio, Jian Tang. "[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://arxiv.org/pdf/2010.04029.pdf).", arXiv:2010.04029.
+* Andreea Deac, Pierre-Luc Bacon, Jian Tang. "[Graph neural induction of value iteration](https://arxiv.org/pdf/2009.12604.pdf).", arXiv:2009.12604.
+* Simeon Spasov, Alessandro Di Stefano, Pietro Liò, Jian Tang. "[GRADE: Graph Dynamic Embedding](https://arxiv.org/pdf/2007.08060.pdf).", arXiv:2007.08060.
 * Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. "[KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/pdf/1911.06136.pdf)",  arXiv:1911.06136.
 * Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://arxiv.org/abs/1909.11715)", arXiv:1909.11715.
 * Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.
@@ -43,7 +46,7 @@ Mingjie Sun, Jian Tang, Huichen Li, Bo Li, Chaowei Xiao, Yao Chen, Dawn Song. "[
 
 # 2018 and before
 
-* Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, and Jie Tang. DeepInf: Modeling Influence Locality in Large Social Networks. In Proceedings of the Twenty-Fourth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18)
+* Jiezhong Qiu, Jian Tang, Hao Ma, Yuxiao Dong, Kuansan Wang, and Jie Tang. [DeepInf: Modeling Influence Locality in Large Social Networks. In Proceedings of the Twenty-Fourth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/pdf/10.1145/3219819.3220077) KDD'18
 * Minjeong Kim, Minsuk Choi, Sunwoong Lee, Jian Tang, Haesun Park, and Jaegul Choo. [PixelSNE: Pixel-Aligned Stochastic Neighbor Embedding for Efficient 2D Visualization with Screen-Resolution Precision](https://arxiv.org/abs/1611.02568). In 20th EG / VGTC Conference on Visualization (EuroVis'18)
 * Quanyu Dai, Qiang Li, Jian Tang, and Dan Wang. [Adversarial Network Embedding](https://arxiv.org/abs/1711.07838), In Proc. of 2018 AAAI Conf. on Artificial Intelligence (AAAI'18), New Orleans, LA, Feb. 2018
 * Luchen Liu, Jianhao Shen, Ming Zhang, Zichang Wang, and Jian Tang. [Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Event Prediction](https://arxiv.org/pdf/1803.04837.pdf), in Proc. of 2018 AAAI Conf. on Artificial Intelligence (AAAI'18), New Orleans, LA, Feb. 2018
