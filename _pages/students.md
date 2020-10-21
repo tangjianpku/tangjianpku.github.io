@@ -20,7 +20,10 @@ Interns
 * [Zuobai Zhang](https://oxer11.github.io/) (Undergradaute, Fudan University, summer 2020)
 * [Minghao Xu](https://chrisallenming.github.io/) (Master, Shanghai Jiao Tong University, summer 2020)
 * Huiyu Cai (Undergradaute, Peking University, summer 2020)
-* Shuangrui Ding (Undergradaute, University of Michigan, summer 2020)
+* [Shuangrui Ding](https://mark12ding.github.io/) (Undergradaute, University of Michigan, summer 2020)
+* [Wangchunshu Zhou](https://michaelzhouwang.github.io/) (Master, Beihang University, summer 2020)
+* [Jinyi Hu](https://www.jinyihu.me/) (Undergraduate, Tsinghua University, summer 2020)
+* [Hanlin Zhang](https://www.linkedin.com/in/hanlin-zhang-931b46143/) (Undergraduate, South China University of Technology, summer 2020)
 
 Alumni
 ---
