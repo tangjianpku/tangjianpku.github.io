@@ -10,10 +10,11 @@ redirect_from:
 
 I am currently an assistant professor at [Mila-Quebec AI Institute](https://mila.umontreal.ca/en/) and [HEC Montreal](http://www.hec.ca/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. For more information, please check my [CV](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/CV/CV_September.pdf).
 
-I am looking for very strong students and have multiple positions in my group (including Postdocs, PhDs, MSc, and interns). Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/admission/) or send me an email directly. In particular, I am looking for students with the following background:
-* Graph representation learning, Graph Neural Networks, Knowledge graphs
+I am looking for very strong students and have multiple positions in my group (including Postdocs, PhDs, MSc, and interns). Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/admission/) (students working with me will be affiliated with UdeM) or send me an email directly. In particular, I am looking for students with the following background:
+* Graph representation learning, Graph Neural Networks, Knowledge graphs and NLP.
 * Deep generative models
-* Bioinformatics, medicine
+* Drug and material discovery
+
 
 
 <span style="color:red">What's New</span>
