@@ -24,6 +24,7 @@ Interns
 * [Wangchunshu Zhou](https://michaelzhouwang.github.io/) (Master, Beihang University, summer 2020)
 * [Jinyi Hu](https://www.jinyihu.me/) (Undergraduate, Tsinghua University, summer 2020)
 * [Hanlin Zhang](https://www.linkedin.com/in/hanlin-zhang-931b46143/) (Undergraduate, South China University of Technology, summer 2020)
+* [Shitong Luo](https://luost.me/) (Undergraduate, Peking University, summer 2020)
 
 Alumni
 ---
