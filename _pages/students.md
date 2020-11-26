@@ -28,7 +28,7 @@ Interns
 
 Alumni
 ---
-* Zheng Xiong (Master, Tsinghua University, 2020.1-2020.4)
+* Zheng Xiong (Master, Tsinghua University, 2020.1-2020.4) now a Ph.D. student at Oxford University
 * [Jordan Hoffmann](https://jhoffmann.org/) (Ph.D., Harvard University, 2019.5-2019.9) (Co-supervised with Yoshua Bengio) now a Research Scientist at DeepMind
 * [Tianyu Gao](https://gaotianyu.xyz/) (Undergraduate, Tsinghua University, summer 2019) now a Ph.D. student at Princeton University
 * Shengding Hu (Undergraduate, Tsinghua University, summer 2019) now a M.Sc. student at Tsinghua
