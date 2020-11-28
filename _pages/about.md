@@ -38,11 +38,11 @@ I am looking for very strong students and have multiple positions in my group (i
 
 Research Interests
 ======
-* Deep learning, deep generative models, reinforcement learning
 * Graph representation learning, Graph Neural Networks
-* Natural language understanding and reasoning, Knowledge graphs
+* Reasoning in Knowledge Graphs and Natural language
+* Deep Generative Models
 * Drug discovery
-* Recommender systems
+* Material Discovery
 
 Recent Papers
 ======
