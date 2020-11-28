@@ -3,10 +3,18 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* Guest Lecture "Graph Representation Learning and Applications", Mcgill University, November.
-* Guest Lecture "Graph Representation Learning and Applications", University of Montreal, November.
-* Invited Talk "Graph Representation Learning and Applications" at National Research Council Canada, 13rd, November.
-* Invited Talk "Graph Representation Learning and Applications to Drug Discovery", Midi Recherche, HEC Montreal, 6th, November.
+* Invited Tutorial "Neural and Symbolic Logical Reasoning on Knowledge Graphs", at the Summer School of Chinese Information Processing Society of China (CIPS), November, 2020. [slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/Knowledge%20Reasoning%20Tutorial_1105.pdf).
+* Invited Talk "Deep Generative Models for Molecular Conformation Generation", at the AI Cures Drug Discovery Conference. October, 2020. [video](https://www.youtube.com/watch?v=MzO8NAMm8Ko&feature=youtu.be),[slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/ConformationGeneration_MIT_compressed.pdf).
+* Invited Talk "Graph Representation Learning for Drug Discovery", Mila/WeBank/DiDi Webinar, October, 2020.[slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/GraphRepresentationLearning-MilaDiDiWebank.pdf).
+* Invited Talk "Graph Representation Learning and Applications to Drug Discovery", at the McGill Seminar Series in Quantitative Life Sciences and MedicineOctober, 2020. [slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/GraphRepresentationLearning-QLSMcGill_compressed.pdf).
+* Invited Talk "Towards combining System I and System II Reasoning" at the Workshop on "Graph Neural Networks" in the second annual conference of Beijing Academy of Artificial Intelligence, June, 2020. 
+* Guest Lecture "Logical Reasoning with Graph Neural Networks", Tsinghua, 2020. 
+* Mila tea talk "Graph Representation Learning: Algorithms and Applications" May, 2020
+* Invited Talk "Reasoning with Text, Knowledge Graphs, and Logical Rules ", Mila-Industrial NLP Workshop, Feb, 2020.
+* Guest Lecture "Graph Representation Learning and Applications", Mcgill University, November, 2019
+* Guest Lecture "Graph Representation Learning and Applications", University of Montreal, November, 2019
+* Invited Talk "Graph Representation Learning and Applications" at National Research Council Canada, 13rd, November, 2019
+* Invited Talk "Graph Representation Learning and Applications to Drug Discovery", Midi Recherche, HEC Montreal, 6th, November, 2019.
 * Invited Talk "Graph Representation Learning and Applications to Drug Discovery" at the Clinical Research Association of Canada, 29th, October, 2019. 
 * Invited Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the [Deep Learning Summit](https://www.re-work.co/events/deep-learning-summit-montreal-2019), Montreal, 24th, October, 2019. [Slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/SRLAndGNN-ReWork-Tang.pdf)
 * Talk "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning" at the annual Mila-Microsoft Workshop. 16th, October, 2019.
