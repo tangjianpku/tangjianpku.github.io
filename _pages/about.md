@@ -19,6 +19,8 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span>  I introduced our recent work on "Deep Genereative Models for Molecular Conformation Genereation" at the MIT AI Cures Drug Discovery Conference, November, 2020. [Slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/ConformationGeneration_MIT_compressed.pdf) and [video](https://www.youtube.com/watch?v=MzO8NAMm8Ko&feature=youtu.be) are available.
+* <span style="color:red">New!!</span> I gave a tutorial on "Neural and Symbolic Logical Reasoning on Knowledge Graphs" at the Summer School of Chinese Information Processing Society of China (CIPS), November, 2020. Slides are available [here](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/Knowledge%20Reasoning%20Tutorial_1105.pdf).
 * <span style="color:red">New!!</span> I will serve as an area chair in ICML'2021!
 * <span style="color:red">New!!</span> 3 papers are accepted to NeurIPS'2020!!
 * <span style="color:red">New!!</span> Received a Tencent AI Lab Rhino-Bird Gift Fund. Thanks Tencent!
@@ -27,11 +29,6 @@ I am looking for very strong students and have multiple positions in my group (i
 * <span style="color:red">New!!</span> Received a Microsoft-Mila collaboration grant on "Towards Combining Statistical Relational Learning and Graph Neural Networks for Reasoning". Thanks Microsoft!
 * <span style="color:red">New!!</span> Received a Collaborative Research and Development Grant on "Intelligent Design through Graph Generation with Deep Generative Models and Reinforcement Learning" from National Research Council Canada (NRC). Thanks NRC!
 * <span style="color:red">New!!</span> I am teaching a new course [Deep Learning and Applications](https://deepgraphlearning.github.io/coursewebsite/) this semester!
-* <span style="color:red">New!!</span> Two papers on graph representation learning for drug discovery are accepted to ICLR'2020!!
-* <span style="color:red">New!!</span> We released the [codes](https://github.com/DeepGraphLearning/pLogicNet) of the pLogicNet model in our NeurIPS'19 paper "Probabilistic Logic Neural Networks for Reasoning"
-* <span style="color:red">New!!</span> We just released our GraphVite system, which is super effecient and only takes one minute to learn the node embeddings of a graph with one million nodes. It now supports three different tasks including node embeddings, knowledge graph embeddings, and graph&high-dimensional data visualization. For more information, check this [link](https://graphvite.io/)
-* <span style="color:red">New!!</span> We just released a library of recommender systems with deep neural networks including session-based recommendation, feature-based recommendation, and social recommenddation. For more information, check this [link](https://github.com/DeepGraphLearning/RecommenderSystems)
-* We just released the source codes of our RotatE model. The codes are available at [link](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding).
 * I am quite honoured to be named to the first cohort of Canada CIFAR Artificial Intelligence Chairs (CCAI Chair).[CIFAR News1](https://www.cifar.ca/cifarnews/2018/12/06/trudeau-meets-with-newly-appointed-canada-cifar-ai-chairs) [CIFAR News2](https://www.cifar.ca/cifarnews/2018/12/03/29-researchers-named-to-first-cohort-of-canada-cifar-artificial-intelligence-chairs) 
 * Tutorial "Graph representation learning" by William L. Hamilton and me has been accepted by AAAI'19. See you at Hawaii!!
  Slides ([Part 0](/files/AAAI19/aaai-grltutorial-part0-intro.pdf), [Part I](/files/AAAI19/aaai-grltutorial-part1-nodereps.pdf), [Part II](/files/AAAI19/aaai-grltutorial-part2-gnns.pdf), [Part III](/files/AAAI19/aaai-grltutorial-part3-generation.pdf))
