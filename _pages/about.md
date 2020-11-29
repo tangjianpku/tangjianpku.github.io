@@ -15,6 +15,8 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span>  I introduced our recent work on "Deep Genereative Models for Molecular Conformation Genereation" at the MIT AI Cures Drug Discovery Conference, November, 2020. [Slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/ConformationGeneration_MIT_compressed.pdf) and [video](https://www.youtube.com/watch?v=MzO8NAMm8Ko&feature=youtu.be) are available.
+* <span style="color:red">New!!</span> I gave a tutorial on "Neural and Symbolic Logical Reasoning on Knowledge Graphs" at the Summer School of Chinese Information Processing Society of China (CIPS), November, 2020. Slides are available [here](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/Knowledge%20Reasoning%20Tutorial_1105.pdf).
 * <span style="color:red">New!!</span> I will serve as an area chair in ICML'2021!
 * <span style="color:red">New!!</span> 3 papers are accepted to NeurIPS'2020!!
 * <span style="color:red">New!!</span> Received a Tencent AI Lab Rhino-Bird Gift Fund. Thanks Tencent!
