@@ -8,12 +8,18 @@ permalink: /publications/
 
 # Preprints
 
-* Meng Qu, Junkun Chen, Louis-Pascal AC Xhonneux, Yoshua Bengio, Jian Tang. "[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://arxiv.org/pdf/2010.04029.pdf).", arXiv:2010.04029.
 * Andreea Deac, Pierre-Luc Bacon, Jian Tang. "[Graph neural induction of value iteration](https://arxiv.org/pdf/2009.12604.pdf).", arXiv:2009.12604.
 * Simeon Spasov, Alessandro Di Stefano, Pietro Liò, Jian Tang. "[GRADE: Graph Dynamic Embedding](https://arxiv.org/pdf/2007.08060.pdf).", arXiv:2007.08060.
 * Hannah Alsdurf, Yoshua Bengio, Tristan Deleu, Prateek Gupta, Daphne Ippolito, Richard Janda, Max Jarvie, Tyler Kolody, Sekoul Krastev, Tegan Maharaj, Robert Obryk, Dan Pilat, Valerie Pisano, Benjamin Prud'homme, Meng Qu, Nasim Rahaman, Irina Rish, Jean-Franois Rousseau, Abhinav Sharma, Brooke Struck, Jian Tang, Martin Weiss, Yun William Yu. "[COVI White Paper](https://arxiv.org/abs/2005.08502).", arXiv:2005.08502.
-* Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://arxiv.org/abs/1909.11715)", arXiv:1909.11715.
 * Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.
+
+# 2021
+
+* Meng Qu, Junkun Chen, Louis-Pascal AC Xhonneux, Yoshua Bengio, Jian Tang. “[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://arxiv.org/abs/2010.04029)”, ICLR'2011
+* Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang. "[Learning Neural Generative Dynamics for Molecular Conformation Generation]()", ICLR'2011
+* Yoshua Bengio, Prateek Gupta, Tegan Maharaj, Nasim Rahaman, Martin Weiss, Tristan Deleu, Eilif Benjamin Muller, Meng Qu, victor schmidt, Pierre-luc St-charles, hannah alsdurf, Olexa Bilaniuk, david buckeridge, gaetan caron, pierre luc carrier, Joumana Ghosn, satya ortiz gagne, Christopher Pal, Irina Rish, Bernhard Schölkopf, abhinav sharma, Jian Tang, andrew williams. "[Predicting Infectiousness for Proactive Contact Tracing]()", ICLR'2011
+* Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://arxiv.org/abs/1909.11715)", AAAI'2021.
+
 
 # 2020
 
