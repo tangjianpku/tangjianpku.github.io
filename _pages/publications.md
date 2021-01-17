@@ -15,9 +15,9 @@ permalink: /publications/
 
 # 2021
 
-* Meng Qu, Junkun Chen, Louis-Pascal AC Xhonneux, Yoshua Bengio, Jian Tang. “[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://arxiv.org/abs/2010.04029)”, ICLR'2011
-* Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang. "[Learning Neural Generative Dynamics for Molecular Conformation Generation]()", ICLR'2011
-* Yoshua Bengio, Prateek Gupta, Tegan Maharaj, Nasim Rahaman, Martin Weiss, Tristan Deleu, Eilif Benjamin Muller, Meng Qu, victor schmidt, Pierre-luc St-charles, hannah alsdurf, Olexa Bilaniuk, david buckeridge, gaetan caron, pierre luc carrier, Joumana Ghosn, satya ortiz gagne, Christopher Pal, Irina Rish, Bernhard Schölkopf, abhinav sharma, Jian Tang, andrew williams. "[Predicting Infectiousness for Proactive Contact Tracing]()", ICLR'2011
+* Meng Qu, Junkun Chen, Louis-Pascal AC Xhonneux, Yoshua Bengio, Jian Tang. “[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://arxiv.org/abs/2010.04029)”, ICLR'2021
+* Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang. "[Learning Neural Generative Dynamics for Molecular Conformation Generation]()", ICLR'2021
+* Yoshua Bengio, Prateek Gupta, Tegan Maharaj, Nasim Rahaman, Martin Weiss, Tristan Deleu, Eilif Benjamin Muller, Meng Qu, victor schmidt, Pierre-luc St-charles, hannah alsdurf, Olexa Bilaniuk, david buckeridge, gaetan caron, pierre luc carrier, Joumana Ghosn, satya ortiz gagne, Christopher Pal, Irina Rish, Bernhard Schölkopf, abhinav sharma, Jian Tang, andrew williams. "[Predicting Infectiousness for Proactive Contact Tracing]()", ICLR'2021
 * Vikas Verma, Meng Qu, Alex Lamb, Yoshua Bengio, Juho Kannala, Jian Tang. "[GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://arxiv.org/abs/1909.11715)", AAAI'2021.
 
 
