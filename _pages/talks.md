@@ -3,6 +3,9 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Keynote Talk "Learning Symbolic Logic Rules for Reasoning on Knowledge Graphs" at the International Workshop on Deep Learning on Graphs in AAAI'2021, February, 2021.
+* AAAI'21 Tutorial  "Artificial Intelligence for Drug Discovery" with Fei Wang and Feixiong Cheng, February, 2021.
+* Invited Talk "Graph Representation Learning for Drug Discovery", Seminar Series on Trustworthy Data Science and AI at Simon Fraser University, December, 2020.
 * Invited Tutorial "Neural and Symbolic Logical Reasoning on Knowledge Graphs", at the Summer School of Chinese Information Processing Society of China (CIPS), November, 2020. [slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/Knowledge%20Reasoning%20Tutorial_1105.pdf).
 * Invited Talk "Deep Generative Models for Molecular Conformation Generation", at the AI Cures Drug Discovery Conference. October, 2020. [video](https://www.youtube.com/watch?v=MzO8NAMm8Ko&feature=youtu.be),[slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/ConformationGeneration_MIT_compressed.pdf).
 * Invited Talk "Graph Representation Learning for Drug Discovery", Mila/WeBank/DiDi Webinar, October, 2020.[slides](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/GraphRepresentationLearning-MilaDiDiWebank.pdf).
