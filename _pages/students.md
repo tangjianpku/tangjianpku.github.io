@@ -16,6 +16,12 @@ Graduate Students
 
 Interns
 ---
+* [Haoxiang Yang] (Undergraduate, Peking University, summer 2021)
+* [Chang Ma] (Undergraduate, Peking University, summer 2021)
+* [Yangtian Zhang] (Undergraduate, Shanghai Jiaotong University, summer 2021)
+
+Alumni
+---
 * Junkun Chen (Undergradaute, Tsinghua University, 2020.3-)
 * [Zuobai Zhang](https://oxer11.github.io/) (Undergradaute, Fudan University, summer 2020)
 * [Minghao Xu](https://chrisallenming.github.io/) (Master, Shanghai Jiao Tong University, summer 2020)
@@ -25,9 +31,8 @@ Interns
 * [Jinyi Hu](https://www.jinyihu.me/) (Undergraduate, Tsinghua University, summer 2020)
 * [Hanlin Zhang](https://www.linkedin.com/in/hanlin-zhang-931b46143/) (Undergraduate, South China University of Technology, summer 2020)
 * [Shitong Luo](https://luost.me/) (Undergraduate, Peking University, summer 2020)
-
-Alumni
----
+* [Hengyi Wang] (Undergraduate, Peking University, summer 2020)
+* [Hangrui Bi] (Undergraduate, Peking University, summer 2020)
 * Zheng Xiong (Master, Tsinghua University, 2020.1-2020.4) now a Ph.D. student at Oxford University
 * [Jordan Hoffmann](https://jhoffmann.org/) (Ph.D., Harvard University, 2019.5-2019.9) (Co-supervised with Yoshua Bengio) now a Research Scientist at DeepMind
 * [Tianyu Gao](https://gaotianyu.xyz/) (Undergraduate, Tsinghua University, summer 2019) now a Ph.D. student at Princeton University
