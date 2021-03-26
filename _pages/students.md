@@ -20,6 +20,7 @@ MSc
 ---
 * [Minkai Xu](https://minkaixu.com/) (Shanghai Jiao Tong University, 2020.9-)
 * [Jiarui Lu]() (Shanghai Jiao Tong University, 2021.9-)
+
 Interns
 ---
 * Haoxiang Yang (Undergraduate, Peking University, summer 2021)
