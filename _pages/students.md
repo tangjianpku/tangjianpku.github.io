@@ -4,7 +4,7 @@ permalink: /students/
 author_profile: true
 ---
 
-Graduate Students
+PhDs
 ---
 * [Zhaocheng Zhu](https://kiddozhu.github.io/) (Peking University, 2018.9-)
 * [Meng Qu](https://mnqu.github.io/) (Peking University, 2019.1-)
@@ -12,8 +12,14 @@ Graduate Students
 * [Louis-Pascal Xhonneux](https://www.linkedin.com/in/louis-pascal-xhonneux-3a85a2141/?originalSubdomain=uk) (University of Cambridge, 2019.9-)
 * [Shengchao Liu](https://chao1224.github.io/) (University of Wisconsin–Madison, 2020.1-)
 * [Chence Shi](https://chenceshi.com/) (Peking University, 2020.9-)
-* [Minkai Xu](https://minkaixu.com/) (Shanghai Jiao Tong University, 2020.9-)
+* [Minghao Xu](https://chrisallenming.github.io/) (Shanghai Jiaotong University, 2022.1-)
+* [Zuobai Zhang](https://oxer11.github.io/) (Fudan University, 2021.9-)
+* [Huiyu Cai]() (Peking University, 2021.9-)
 
+MSc
+---
+* [Minkai Xu](https://minkaixu.com/) (Shanghai Jiao Tong University, 2020.9-)
+* [Jiarui Lu]() (Shanghai Jiao Tong University, 2021.9-)
 Interns
 ---
 * Haoxiang Yang (Undergraduate, Peking University, summer 2021)
