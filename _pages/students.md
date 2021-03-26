@@ -4,7 +4,7 @@ permalink: /students/
 author_profile: true
 ---
 
-PhDs
+PhD
 ---
 * [Zhaocheng Zhu](https://kiddozhu.github.io/) (Peking University, 2018.9-)
 * [Meng Qu](https://mnqu.github.io/) (Peking University, 2019.1-)
