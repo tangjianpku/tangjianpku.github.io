@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Current Projects
+Current Projects [Not Updated]
 ---
 * Fundamental Problems on Graph Representation Learning
 * Drug Discovery
