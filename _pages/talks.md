@@ -3,6 +3,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Invited talk on "Graph Representation Learning for Drug Discover" at the first workshop on "AI + Medicine" at Institute for AI Industry Research, Tsinghua University. The slides are available [here](https://drive.google.com/file/d/19e0scMh4Fxzsbq6a8Z9idsYcsnLAgYAx/view?usp=sharing). 
 * Invited Talk "Graph Representation Learning for Drug Discovery" at the research seminar of School of Biomedical Informatics, University of Texas School of Biomedical Informatics. [slides](https://drive.google.com/file/d/14GXq3h83EzvqTBkxNA4Wq5rHxQrT76xd/view?usp=sharing).
 * Keynote Talk "Learning Symbolic Logic Rules for Reasoning on Knowledge Graphs" at the International Workshop on Deep Learning on Graphs in AAAI'2021, February, 2021.[slides](https://drive.google.com/file/d/1-jALWK17GjPB0EcxLZy4Zfj--lkdo99_/view?usp=sharing) [video](https://drive.google.com/file/d/1e-SpcbcoRtnySYjS13k2JmgZK3zelL1T/view?usp=sharing)
 * AAAI'21 Tutorial  "Artificial Intelligence for Drug Discovery" with Fei Wang and Feixiong Cheng, February, 2021.
