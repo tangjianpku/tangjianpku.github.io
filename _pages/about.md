@@ -15,6 +15,8 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
+
+* <span style="color:red">New!!</span> I gave a talk on "Graph Representation Learning for Drug Discover" at the first workshop on "AI + Medicine" at Institute for AI Industry Research, Tsinghua University. The slides are available [here](https://drive.google.com/file/d/19e0scMh4Fxzsbq6a8Z9idsYcsnLAgYAx/view?usp=sharing)
 * <span style="color:red">New!!</span> I will serve as an area chair in NeurIPS'2021!
 * <span style="color:red">New!!</span> I gave an invited talk "Deep generative models for molecular conformation generation" at Samsung Seminar. 
 * <span style="color:red">New!!</span> I gave an invited Talk "Graph Representation Learning for Drug Discovery" at the research seminar of School of Biomedical Informatics, University of Texas School of Biomedical Informatics. [slides](https://drive.google.com/file/d/14GXq3h83EzvqTBkxNA4Wq5rHxQrT76xd/view?usp=sharing) are available. 
