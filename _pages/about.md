@@ -53,6 +53,11 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Chence Shi, Shitong Luo, Minkai Xu, Jian Tang. "[Learning Gradient Fields for Molecular Conformation Generation]()", to appear at ICML'21.  
+* <span style="color:red">New!!</span> Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, Jian Tang. "[An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming]()", to appear at ICML'21.  
+* <span style="color:red">New!!</span> Hangrui Bi, Hengyi Wang, Chence Shi, Connor Coley, Jian Tang, Hongyu Guo. "[Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction]()", to appear at ICML'21.  
+* <span style="color:red">New!!</span>Minghao Xu, Hang Wang, Bingbing Ni, Hongyu Guo, Jian Tang. "[Self-supervised Graph-level Representation Learning with Local and Global Structure
+]()", to appear at ICML'21. 
 * <span style="color:red">New!!</span> Meng Qu, Junkun Chen, Louis-Pascal AC Xhonneux, Yoshua Bengio, Jian Tang. “[RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://arxiv.org/abs/2010.04029)”, ICLR'2021
 * <span style="color:red">New!!</span> Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang. "[Learning Neural Generative Dynamics for Molecular Conformation Generation]()", ICLR'2021
 * <span style="color:red">New!!</span> Yoshua Bengio, Prateek Gupta, Tegan Maharaj, Nasim Rahaman, Martin Weiss, Tristan Deleu, Eilif Benjamin Muller, Meng Qu, victor schmidt, Pierre-luc St-charles, hannah alsdurf, Olexa Bilaniuk, david buckeridge, gaetan caron, pierre luc carrier, Joumana Ghosn, satya ortiz gagne, Christopher Pal, Irina Rish, Bernhard Schölkopf, abhinav sharma, Jian Tang, andrew williams. "[Predicting Infectiousness for Proactive Contact Tracing]()". ICLR'2021
