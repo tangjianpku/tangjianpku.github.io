@@ -3,7 +3,7 @@ title: "Professional Services"
 permalink: /services/
 author_profile: true
 ---
-* Area Chair of the International Conference on Machine Learning (ICML 2021)
+* Area Chair: ICML 2021, NeurIPS 2021, AKBC 2021
 * Program committee: ICLR 2021, AAAI 2021, WWW 2021
 * Reproductibility chair: IJCAI 2021
 * (Senior) Program Committee member: ICLR 2020, NeurIPS 2020, (Senior) CIKM 2020 (Short paper track), WWW 2020, AAAI 2020
