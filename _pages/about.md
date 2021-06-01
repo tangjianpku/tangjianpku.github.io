@@ -15,6 +15,8 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> New!! I will serve as an area chair at [AKBC'21 (Automated Knowledge Base Construction)](https://www.akbc.ws/2021/). 
+* <span style="color:red">New!!</span> I gave a guest lecture on "Logic Reasoning for Knowledge Graphs" at the advanced machine learning class offered by Jie Tang at Tsinghua University. 
 * <span style="color:red">New!!</span> Four papers related to Drug Discovery are accepted to ICML'21. Congrats to Chence Shi, Minkai Xu, Shitong Luo, Minghao and other interns and collaborators. 
 * <span style="color:red">New!!</span> I joined a panel discussion on 'High Impact in Practice' at ICLR's [Geometric and Topological Representation Learning](https://gt-rl.github.io/) workshop. 
 * <span style="color:red">New!!</span> I gave a Guest Lecture on "Graph Representation Learning for Drug Discover" at the Yale University.
