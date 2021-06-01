@@ -19,7 +19,7 @@ I am looking for very strong students and have multiple positions in my group (i
 * <span style="color:red">New!!</span> I gave a guest lecture on "Logic Reasoning for Knowledge Graphs" at the advanced machine learning class offered by Jie Tang at Tsinghua University. 
 * <span style="color:red">New!!</span> Four papers related to Drug Discovery are accepted to ICML'21. Congrats to Chence Shi, Minkai Xu, Shitong Luo, Minghao and other interns and collaborators. 
 * <span style="color:red">New!!</span> I joined a panel discussion on 'High Impact in Practice' at ICLR's [Geometric and Topological Representation Learning](https://gt-rl.github.io/) workshop. 
-* <span style="color:red">New!!</span> I gave a Guest Lecture on "Graph Representation Learning for Drug Discover" at the Yale University.
+* <span style="color:red">New!!</span> I gave a Guest Lecture on "Graph Representation Learning for Drug Discovery" at the Yale University.
 * <span style="color:red">New!!</span> I gave a talk on "Graph Representation Learning for Drug Discover" at the first workshop on "AI + Medicine" at Institute for AI Industry Research, Tsinghua University. The slides are available [here](https://drive.google.com/file/d/19e0scMh4Fxzsbq6a8Z9idsYcsnLAgYAx/view?usp=sharing)
 * <span style="color:red">New!!</span> I will serve as an area chair in NeurIPS'2021!
 * <span style="color:red">New!!</span> I gave an invited talk "Deep generative models for molecular conformation generation" at Samsung Seminar. 
