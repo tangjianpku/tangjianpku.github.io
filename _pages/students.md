@@ -15,6 +15,7 @@ PhD
 * [Minghao Xu](https://chrisallenming.github.io/) (Shanghai Jiaotong University, 2022.1-)
 * [Zuobai Zhang](https://oxer11.github.io/) (Fudan University, 2021.9-)
 * [Huiyu Cai]() (Peking University, 2021.9-)
+* [Farzaneh, Heidari]() (York University, 2021.9-) Co-supervised with Guillaume Rabusseau
 
 MSc
 ---
