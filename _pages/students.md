@@ -27,6 +27,8 @@ Interns
 * Haoxiang Yang (Undergraduate, Peking University, summer 2021)
 * Chang Ma (Undergraduate, Peking University, summer 2021)
 * Yangtian Zhang (Undergraduate, Shanghai Jiaotong University, summer 2021)
+* Ruicheng Li (Undergraduate, Tsinghua University, summer 2021)
+* Zhanpeng Zhou (Undergraduate, Shanghai Jiaotong University, summer 2021)
 
 Alumni
 ---
