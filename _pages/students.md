@@ -14,7 +14,7 @@ PhD
 * [Chence Shi](https://chenceshi.com/) (Peking University, 2020.9-)
 * [Minghao Xu](https://chrisallenming.github.io/) (Shanghai Jiaotong University, 2022.1-)
 * [Zuobai Zhang](https://oxer11.github.io/) (Fudan University, 2021.9-)
-* [Huiyu Cai]() (Peking University, 2021.9-)
+* [Huiyu Cai](https://hui2000ji.github.io/) (Peking University, 2021.9-)
 * [Farzaneh, Heidari]() (York University, 2021.9-) Co-supervised with Guillaume Rabusseau
 
 MSc
