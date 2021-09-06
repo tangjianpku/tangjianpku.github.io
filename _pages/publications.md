@@ -6,6 +6,14 @@ permalink: /publications/
 
 [Google Scholar](https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/hd/t/Tang_0005:Jian)
 
+# Tutorials
+* Jian Tang, Fei Wang, Feixiong Cheng. "[Artificial Intelligence for Drug Discovery](https://deepgraphlearning.github.io/DrugTutorial_KDD2021/)". KDD'2021.
+* Jian Tang, Fei Wang, Feixiong Cheng. "[Artificial Intelligence for Drug Discovery](https://deepgraphlearning.github.io/DrugTutorial_AAAI2021/)". AAAI'2021.
+* William L. Hamilton and Jian Tang. “Graph Representation Learning”. Tutorial at the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
+* Jian Tang, Cheng Li and Qiaozhu Mei. "Learning representations of networks". Tutorial at KDD'17.
+
+
+
 # Preprints
 
 * Andreea Deac, Pierre-Luc Bacon, Jian Tang. "[Graph neural induction of value iteration](https://arxiv.org/pdf/2009.12604.pdf).", arXiv:2009.12604.
