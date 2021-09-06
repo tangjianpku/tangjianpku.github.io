@@ -15,6 +15,7 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> I gave an invted talk on "Geometric Deep Learning for Drug Disscovery" at ByteDance. Slides are available [here](https://drive.google.com/file/d/14n70vwv5tFqxgYUlsDEspUhv58cLBFua/view?usp=sharing).
 * <span style="color:red">New!!</span> New!! I will serve as an area chair at [AKBC'21 (Automated Knowledge Base Construction)](https://www.akbc.ws/2021/). 
 * <span style="color:red">New!!</span> I gave a guest lecture on "Logic Reasoning for Knowledge Graphs" at the advanced machine learning class offered by Jie Tang at Tsinghua University. 
 * <span style="color:red">New!!</span> Four papers related to Drug Discovery are accepted to ICML'21. Congrats to Chence Shi, Minkai Xu, Shitong Luo, Minghao and other interns and collaborators. 
