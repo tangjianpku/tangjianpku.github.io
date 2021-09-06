@@ -15,7 +15,7 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> Our paper "Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data", collaborated with Prof. Yue Li at McGill Univesity, has been accepted to [Nature Communications](https://www.nature.com/ncomms/). Congrats to the leading author Yifan Zhao and Huiyu Cai.  
+* <span style="color:red">New!!</span> Our paper "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)", collaborated with Prof. Yue Li at McGill Univesity, has been accepted to [Nature Communications](https://www.nature.com/ncomms/). Congrats to the leading author Yifan Zhao and Huiyu Cai.  
 * <span style="color:red">New!!</span> We just released our machine learning for drug discovery platform, TorchDrug. For more information about TorchDrug, please visit [here](https://torchdrug.ai/). 
 * <span style="color:red">New!!</span> I gave an invted talk on "Geometric Deep Learning for Drug Disscovery" at ByteDance. Slides are available [here](https://drive.google.com/file/d/14n70vwv5tFqxgYUlsDEspUhv58cLBFua/view?usp=sharing).
 * <span style="color:red">New!!</span> I will serve as an area chair at [AKBC'21 (Automated Knowledge Base Construction)](https://www.akbc.ws/2021/). 
