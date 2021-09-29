@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an assistant professor at [Mila-Quebec AI Institute](https://mila.umontreal.ca/en/) and [HEC Montreal](http://www.hec.ca/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. For more information, please check my [CV](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/CV/CV_JianTang_2021_Feb.pdf).
 
-<span style="color:red">Hiring!!</span> I have multiple PhD positions for next Fall. In particular, I'm looking for students to work on the following projects:
+<span style="color:red">Hiring!!</span> Our group has multiple PhD positions for next Fall. In particular, we are looking for students to work on the following projects:
 
 * Geometric Deep Learning, Graph Neural Networks for Drug Design
 * Equivariant Neural Networks for Molecular Simulation
