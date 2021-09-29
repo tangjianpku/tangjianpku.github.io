@@ -15,6 +15,7 @@ I am looking for very strong students and have multiple positions in my group (i
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> Five papers are accepted to NeurIPS'2021. Congrats to Chence Shi, Zhaocheng Zhu, Louis-Pascal Xhonneux, Minghao Xu, Andreea Deac.
 * <span style="color:red">New!!</span> Our paper "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)", collaborated with Prof. Yue Li at McGill Univesity, has been accepted to [Nature Communications](https://www.nature.com/ncomms/). Congrats to the leading author Yifan Zhao and Huiyu Cai.  
 * <span style="color:red">New!!</span> We just released our machine learning for drug discovery platform, TorchDrug. For more information about TorchDrug, please visit [here](https://torchdrug.ai/). 
 * <span style="color:red">New!!</span> I gave an invted talk on "Geometric Deep Learning for Drug Disscovery" at ByteDance. Slides are available [here](https://drive.google.com/file/d/14n70vwv5tFqxgYUlsDEspUhv58cLBFua/view?usp=sharing).
@@ -58,6 +59,11 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Zhaocheng Zhu, Zuobai Zhang, Louis-Pascal A. C. Xhonneux, Jian Tang. [Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction](https://arxiv.org/abs/2106.06935), to appear at NeurIPS'21.
+* <span style="color:red">New!!</span> Shitong Luo, Chence Shi, Minkai Xu, Jian Tang. [Predicting Molecular Conformation via Dynamic Graph Score Matching](), to appear at NeurIPS'21.
+* <span style="color:red">New!!</span> Minghao Xu, Meng Qu, Bingbing Ni, Jian Tang. [Joint Modeling of Visual Objects and Relations for Scene Graph Generation](), to appear at NeurIPS'21.
+* <span style="color:red">New!!</span> Andreea Deac, Petar Veličković, Ognjen Milinković, Pierre-Luc Bacon, Jian Tang, Mladen Nikolic. [Neural Algorithmic Reasoners are Implicit Planners](), to appear at NeurIPS'21.
+* <span style="color:red">New!!</span> Louis-Pascal A. C. Xhonneux, Andreea Deac, Petar Veličković, Jian Tang.[How to transfer algorithmic reasoning knowledge to learn new algorithms?](), to appear at NeurIPS'21.
 * <span style="color:red">New!!</span> Chence Shi, Shitong Luo, Minkai Xu, Jian Tang. "[Learning Gradient Fields for Molecular Conformation Generation]()", to appear at ICML'21.  
 * <span style="color:red">New!!</span> Minkai Xu, Wujie Wang, Shitong Luo, Chence Shi, Yoshua Bengio, Rafael Gomez-Bombarelli, Jian Tang. "[An End-to-End Framework for Molecular Conformation Generation via Bilevel Programming]()", to appear at ICML'21.  
 * <span style="color:red">New!!</span> Hangrui Bi, Hengyi Wang, Chence Shi, Connor Coley, Jian Tang, Hongyu Guo. "[Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction]()", to appear at ICML'21.  
@@ -80,6 +86,5 @@ Recent Papers
 Selected Publications
 ======
 * Jian Tang, Jingzhou Liu, Ming Zhang and Qiaozhu Mei. [Visualizing Large-scale and High-dimensional Data](https://arxiv.org/abs/1602.00370). WWW'16. \[[code](https://github.com/lferry007/LargeVis)\]\[[slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwa3VqaWFudGFuZ3xneDo0NjZiMWMwNzBlNzVhNmQ0)\] <span style="color:red">(Best paper nomination 5/727)</span> 
-* Jian Tang, Meng Qu, and Qiaozhu Mei. [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/abs/1508.00200). KDD'15. \[[code](https://github.com/mnqu/PTE)\]
 * Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and Qiaozhu Mei. [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578). WWW'15. \[[code](https://github.com/tangjianpku/LINE)\] <span style="color:red">(Most cited paper in WWW'15)</span>
 * Jian Tang, Zhaoshi Meng, XuanLong Nguyen, Qiaozhu Mei and Ming Zhang. [Understanding the limiting factors of topic modeling via posterior contraction analysis](http://proceedings.mlr.press/v32/tang14.pdf). In proceedings of the 31st International Conference on Machine Learning (ICML), Beijing, June 2014. <span style="color:red">(Best paper award, 1/1500)</span>
