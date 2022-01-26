@@ -21,7 +21,14 @@ permalink: /publications/
 * Hannah Alsdurf, Yoshua Bengio, Tristan Deleu, Prateek Gupta, Daphne Ippolito, Richard Janda, Max Jarvie, Tyler Kolody, Sekoul Krastev, Tegan Maharaj, Robert Obryk, Dan Pilat, Valerie Pisano, Benjamin Prud'homme, Meng Qu, Nasim Rahaman, Irina Rish, Jean-Franois Rousseau, Abhinav Sharma, Brooke Struck, Jian Tang, Martin Weiss, Yun William Yu. "[COVI White Paper](https://arxiv.org/abs/2005.08502).", arXiv:2005.08502.
 * Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio. "[Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures](https://arxiv.org/abs/1909.00949)", arXiv:1909.00949.
 
+# 2022
+
+* Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang. [Pre-training Molecular Graph Representation with 3D Geometry](https://arxiv.org/abs/2110.07728), to appear at ICLR'22.
+* Shengchao Liu, Meng Qu, Zuobai Zhang, Huiyu Cai, Jian Tang. [Structured Multi-Task Learning for Molecular Property Predictions], to appear at AISTATS'22.
+
+
 # 2021
+
 * Zhaocheng Zhu, Zuobai Zhang, Louis-Pascal A. C. Xhonneux, Jian Tang. [Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction](https://arxiv.org/abs/2106.06935), to appear at NeurIPS'21.
 * Shitong Luo, Chence Shi, Minkai Xu, Jian Tang. [Predicting Molecular Conformation via Dynamic Graph Score Matching](), to appear at NeurIPS'21.
 * Minghao Xu, Meng Qu, Bingbing Ni, Jian Tang. [Joint Modeling of Visual Objects and Relations for Scene Graph Generation](), to appear at NeurIPS'21.
@@ -54,6 +61,7 @@ permalink: /publications/
 * Chence Shi*, Minkai Xu*, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang. "[GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/attachment?id=S1esMkHYPr&name=original_pdf)". To appear at the International Conference on Learning Representations 2020 (ICLR'20),  Addis Ababa, Ethiopia, Apr.26-Apr. 30, 2020
 * Fan-Yun Sun, Jordan Hoffmann, Jian Tang."[InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://arxiv.org/abs/1908.01000)." To appear at the International Conference on Learning Representations 2020 (ICLR'20, Spotlight),  Addis Ababa, Ethiopia, Apr.26-Apr.30, 2020
 
+
 # 2019
 
 * Meng Qu, Jian Tang. "[Probabilistic Logic Neural Networks for Reasoning](https://128.84.21.199/abs/1906.08495)", to appear at the Thirty-third Annual Conference on Neural Information Processing Systems (NeurIPS‘19), Vancouver, Canada, Dec.8-15, 2019. [source](https://github.com/DeepGraphLearning/pLogicNet)
@@ -70,6 +78,7 @@ permalink: /publications/
 * Pengfei Liu, Shuaichen Chang, Xuanjing Huang, Jian Tang, Jackie Chi Kit Cheung. "[Contextualized Non-local Neural Networks for Sequence Learning](https://arxiv.org/pdf/1811.08600.pdf)." In the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI'19), Hawaii, USA, 2019.
 Mingjie Sun, Jian Tang, Huichen Li, Bo Li, Chaowei Xiao, Yao Chen, Dawn Song. "[Data Poisoning Attack against Unsupervised Node Embedding Methods](https://arxiv.org/pdf/1810.12881.pdf)." arXiv:1810.12881
 * Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang and Jian Tang. "[Session-based Social Recommendation via Dynamic Graph Attention Networks](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/MyPapers/Song-WSDM19.pdf)." To appear at the 12th ACM International Conference on Web Search and Data Mining (WSDM'19), Melbourne, Australia, February 11-15, 2019. [source](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec)
+
 
 # 2018 and before
 
