@@ -22,6 +22,7 @@ Students who are interested in working with me please apply through [Mila admiss
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> Three papers are accepted to ICLR'2022. Congrats to Shengchao Liu, Meng Qu, Minkai Xu, Huiyu Cai, Chence Shi.
 * <span style="color:red">New!!</span> Received new grant from IBM/Mila collaboration for "Pretraining molecular and protein representation with 3D structures" proposal (Oct. 1st 2021).
 * <span style="color:red">New!!</span> Five papers are accepted to NeurIPS'2021. Congrats to Chence Shi, Zhaocheng Zhu, Louis-Pascal Xhonneux, Minghao Xu, Andreea Deac.
 * <span style="color:red">New!!</span> Our paper "[Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data](https://www.biorxiv.org/content/10.1101/2021.01.13.426593v1.full)", collaborated with Prof. Yue Li at McGill Univesity, has been accepted to [Nature Communications](https://www.nature.com/ncomms/). Congrats to the leading author Yifan Zhao and Huiyu Cai.  
@@ -67,6 +68,8 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> Shengchao Liu, Meng Qu, Zuobai Zhang, Huiyu Cai, Jian Tang. [Structured Multi-Task Learning for Molecular Property Predictions], to appear at AISTATS'22.
+* <span style="color:red">New!!</span> Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang. [Pre-training Molecular Graph Representation with 3D Geometry](https://arxiv.org/abs/2110.07728), to appear at ICLR'22.
 * <span style="color:red">New!!</span> Zhaocheng Zhu, Zuobai Zhang, Louis-Pascal A. C. Xhonneux, Jian Tang. [Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction](https://arxiv.org/abs/2106.06935), to appear at NeurIPS'21.
 * <span style="color:red">New!!</span> Shitong Luo, Chence Shi, Minkai Xu, Jian Tang. [Predicting Molecular Conformation via Dynamic Graph Score Matching](), to appear at NeurIPS'21.
 * <span style="color:red">New!!</span> Minghao Xu, Meng Qu, Bingbing Ni, Jian Tang. [Joint Modeling of Visual Objects and Relations for Scene Graph Generation](), to appear at NeurIPS'21.
