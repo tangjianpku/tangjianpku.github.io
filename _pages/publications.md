@@ -23,6 +23,8 @@ permalink: /publications/
 
 # 2022
 
+* Meng Qu, Huiyu Cai, Jian Tang. [Neural Structured Prediction for InductiveNode Classification], to appear at ICLR'22.
+* Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang. [GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation], to appear at ICLR'22.
 * Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang. [Pre-training Molecular Graph Representation with 3D Geometry](https://arxiv.org/abs/2110.07728), to appear at ICLR'22.
 * Shengchao Liu, Meng Qu, Zuobai Zhang, Huiyu Cai, Jian Tang. [Structured Multi-Task Learning for Molecular Property Predictions], to appear at AISTATS'22.
 
