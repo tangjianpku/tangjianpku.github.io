@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor at [Mila-Quebec AI Institute](https://mila.umontreal.ca/en/) and [HEC Montreal](http://www.hec.ca/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. For more information, please check my [CV](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/CV/CV_JianTang_Oct.2021.pdf).
+I am currently an associate professor at [Mila-Quebec AI Institute](https://mila.umontreal.ca/en/) and [HEC Montreal](http://www.hec.ca/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. For more information, please check my [CV](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/CV/CV_2022.June.pdf).
 
 <span style="color:red">Hiring!!</span> Our group has multiple PhD positions next Fall. In particular, we are looking for students to work on the following projects:
 
