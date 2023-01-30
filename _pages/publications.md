@@ -31,6 +31,10 @@ permalink: /publications/
 
 
 # 2022
+* Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Runcheng Liu, Jian Tang. PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding. NeurIPS Datasets and Benchmarks 2022.
+* Mikhail Galkin, Zhaocheng Zhu, Hongyu Ren, Jian Tang. Inductive Logical Query Answering in Knowledge Graphs.  NeurIPS 2022. 
+* Chenqing Hua, Guillaume Rabusseau, Jian Tang. High-Order Pooling for Graph Neural Networks with Tensor Decomposition.  NeurIPS 2022. 
+* Shaohua Fan, Xiao Wang, Yanhu Mo, Chuan Shi, Jian Tang. Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure. NeurIPS 2022. 
 *  Kuangqi Zhou, Kaixin Wang, Jian Tang, Jiashi Feng, Bryan Hooi, Peilin Zhao, Tingyang Xu, Xinchao Wang. Jointly Modelling Uncertainty and Diversity for Active Molecular Property Prediction. Learning on Graphs Conference 2022.
 * Wujie Wang, Minkai Xu, Chen Cai, Benjamin Kurt Miller, Tess Smidt, Yusu Wang, Jian Tang, Rafael Gomez-Bombarelli. Generative Coarse-Graining of Molecular Conformations. ICML'22.
 * Zhaocheng Zhu, Mikhail Galkin, Zuobai Zhang, Jian Tang. Neural-Symbolic Models for Logical Queries on Knowledge Graphs, ICML'22.
