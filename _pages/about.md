@@ -19,7 +19,7 @@ I am currently an associate professor at [Mila-Quebec AI Institute](https://mila
 We are collaborating with many leading labs in biology across the world and also have access to thousands of GPUs through our industry collaborators. Join us to make imact in tacking real-wold challenging biological problems with generative AI. 
 
 
-Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/prospective-students-and-postdocs/research-programs/request-supervisor) (students working with me will be affiliated with UdeM) or send me an email directly.
+Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/prospective-students-and-postdocs/research-programs/request-supervisor) (students working with me will be affiliated with UdeM) or send me an email directly. 
 
 
 <span style="color:red">What's New</span>
