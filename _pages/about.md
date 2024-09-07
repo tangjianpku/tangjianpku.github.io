@@ -10,14 +10,16 @@ redirect_from:
 
 I am currently an associate professor at [Mila-Quebec AI Institute](https://mila.umontreal.ca/en/) and [HEC Montreal](http://www.hec.ca/). Prior to that, I was a Postdoc at University of Michigan and Carnegie Mellon University. I also worked at [Microsoft Research Asia](https://www.msra.cn/) as an associate researcher between 2014-2016. For more information, please check my [CV](https://github.com/tangjianpku/tangjianpku.github.io/blob/master/files/CV/CV_2022.June.pdf).
 
-<span style="color:red">Hiring!!</span> Our group has multiple PhD positions next Fall. In particular, we are looking for students to work on the following projects:
+<span style="color:red">Hiring in 2024 Fall!!</span> Our group has multiple PhD positions in Fall 2024. In particular, we are looking for students to work on the following two directions:
 
-* Geometric Deep Learning, Graph Neural Networks for Drug Design
-* Equivariant Neural Networks for Molecular Simulation
-*  Knowledge Graph Construction and Reasoning, Natural Language Understanding
+* Geometric Deep Learning, Generative Models (e.g., diffusion models, flow matching) for drug discovery, in particular protein design;
+  
+* Large Language Models (LLMs) for Multiomics (genomoics, single-cell RNA-seq, proteomics, etc.).
+
+We are collaborating with many leading labs in biology across the world and also have access to thousands of GPUs through our industry collaborators. Join us to make imact in tacking real-wold challenging biological problems with generative AI. 
 
 
-Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/admission/) (students working with me will be affiliated with UdeM) or send me an email directly.
+Students who are interested in working with me please apply through [Mila admission](https://mila.quebec/en/prospective-students-and-postdocs/research-programs/request-supervisor) (students working with me will be affiliated with UdeM) or send me an email directly.
 
 
 <span style="color:red">What's New</span>
