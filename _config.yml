@@ -1,8 +1,8 @@
 
 locale                   : "en-US"
-title                    : "Jian Tang's Homepage"
+title                    : "주영의 블로그"
 title_separator          : "-"
-name                     : &name "김주영"
+name                     : &name "주영"
 description              : &description "회사원"
 
 url                      : https://alalal93.github.io
@@ -57,13 +57,11 @@ analytics:
 # Site Author
 author:
   name             : "김주영"
-  avatar           : "jian.jpg"
-  bio              : |
+  avatar           : "juyoung.jpg"
+
    
    
   location         : "경기도 화성시"
-
-  googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
 
   github           : "alalal93"
 
