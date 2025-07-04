@@ -9,13 +9,12 @@
 locale                   : "en-US"
 title                    : "Jian Tang's Homepage"
 title_separator          : "-"
-name                     : &name "Jian Tang"
-description              : &description "Assitant Professor"
-description              : &description "HEC Montreal"
-description              : &description "Montreal Institute for Learning Alogorithms (MILA)"
+name                     : &name "김주영"
+description              : &description "회사원"
+
 url                      : https://alalal93.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tangjianpku/tangjianpku.github.io"
+repository               : "alalal93/alalal93.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +31,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jian Tang"
+  name             : "김주영"
   avatar           : "jian.jpg"
   bio              : |
     Assistant Professor, <br>
     HEC Montreal <br>
     Montreal Institute for Learning Alogorithms (MILA)
-  location         : "Montreal, Canada"
+  location         : "경기도 화성시시"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
   email            :
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjianpku"
+  github           : "alalal93"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,13 +107,13 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "tangjianpku"
+
+
   vine             :
-  weibo            : "1741301241/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
-  xing             :
+
+
   youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
