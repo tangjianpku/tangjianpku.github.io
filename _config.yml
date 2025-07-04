@@ -1,21 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
 locale                   : "en-US"
-title                    : "Jian Tang's Homepage"
+title                    : "주영의 블로그"
 title_separator          : "-"
-name                     : &name "Jian Tang"
-description              : &description "Assitant Professor"
-description              : &description "HEC Montreal"
-description              : &description "Montreal Institute for Learning Alogorithms (MILA)"
-url                      : https://tangjianpku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "주영"
+description              : &description "회사원"
+
+url                      : https://alalal93.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tangjianpku/tangjianpku.github.io"
+repository               : "alalal93/alalal93.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -26,13 +18,10 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -56,19 +45,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -80,41 +56,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jian Tang"
-  avatar           : "jian.jpg"
-  bio              : |
-    Assistant Professor, <br>
-    HEC Montreal <br>
-    Montreal Institute for Learning Alogorithms (MILA)
-  location         : "Montreal, Canada"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "tangjianpku"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "tangjianpku"
-  vine             :
-  weibo            : "1741301241/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
-  xing             :
-  youtube          :
-  wikipedia        :
+  name             : "김주영"
+  avatar           : "juyoung.jpg"
+
+   
+   
+  location         : "경기도 화성시"
+
+  github           : "alalal93"
+
+
 
 
 # Reading Files
