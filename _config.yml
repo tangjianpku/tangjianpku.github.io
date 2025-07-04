@@ -1,11 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
 locale                   : "en-US"
 title                    : "Jian Tang's Homepage"
 title_separator          : "-"
@@ -25,10 +18,7 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
@@ -55,19 +45,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -82,37 +59,14 @@ author:
   name             : "김주영"
   avatar           : "jian.jpg"
   bio              : |
-    Assistant Professor, <br>
-    HEC Montreal <br>
-    Montreal Institute for Learning Alogorithms (MILA)
-  location         : "경기도 화성시시"
-  employer         :
+   
+   
+  location         : "경기도 화성시"
+
   googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+
   github           : "alalal93"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
 
-
-  vine             :
-
-
-  youtube          :
 
 
 
